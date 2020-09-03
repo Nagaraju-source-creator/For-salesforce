@@ -7,4 +7,5 @@
     <fields>status__c</fields>
     <fields>Phone</fields>
     <label>Firstcompactlayout</label>
+    sdfsdfdfgvdfkjndjv xbnsdjlv dsv n
 </CompactLayout>
