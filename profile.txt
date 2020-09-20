@@ -1,0 +1,69 @@
+In profiles we have 
+1.page layouts assaignment
+2.field -level security
+3.custom app settings
+4.connected app acess
+5.Tab settings -
+default on
+default off
+6.tab hidden
+7.admin permissions
+8.general user permissions
+9.Standard and custom objects permissions
+10.session settings
+11.password polocies
+12.login ip ranges
+13.login hours
+14.visualforce page access
+15.apex class access
+16.external data acess
+17.Name credentials acess
+18.custom metadata access
+19.custom settings acess
+20.flow access
+21.custom permissions access
+22.record type settings
+
+----Profile----
+profile is group/collections of settings and permissions that defines what a user can do in salesforce.
+using profile we can access object permissions field-level security,pagelayout assignment,custom app settings,record type settings,tab settings,apex class enabled,visualforce page enabled,login hours,login ip ranges,password polocies,flow access,custom meta data access,custom settings access.
+
+Pagelayout 
+standard pagelayout assaignment
+custom pagelayout assaignment
+here we can assaign the pagelayouts for profiles
+
+custom app settings 
+here we have visible and default options
+visible means app visibility and default means which app should be default visible for that particular profile.
+
+filed- level security
+here we have read and edit access
+
+
+--Tab Settings---
+here we have Default on default off and tab hidden
+default on means the tab bydefault visible to profile and default off means
+it the user with that profile cant see  tab hidden means it perminently he cant find the tab
+
+--Object permissions---
+Here we have read create edit delete viewall modifyall options.
+Read -- user can only view the records.
+create -- user can read and create the records.
+edit --- user can read and update the records.
+delete ---- user can read edit and delete the recods.
+view all --- user can see the all records assosiated with object regardless of sharing settings
+modify all -- user can read edit,delete all records assosiated with object regardless of sharing settings.
+
+
+
+
+ 
+
+
+
+
+
+
+
+
